@@ -24,7 +24,7 @@ Find the documentation for both in the [Web trackers](/docs/sources/trackers/jav
 ### Server-side tracking
 Track events in server-side Node.js environments using the **Node.js Tracker (v3)**. Used via npm.
 
-Find the documentation in the [Node.js tracker](/docs/sources/trackers/javascript-trackers/node-js-tracker/index.md) section.
+Find the documentation in the [Node.js tracker](/docs/sources/trackers/node-js-tracker/index.md) section.
 
  ---
 
